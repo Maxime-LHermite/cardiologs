@@ -1,0 +1,19 @@
+{
+    "language": "English",
+    "title": "Cardiologs",
+    "ecgUpload": {
+        "send": "Send"
+    },
+    "analysis": {
+        "measures": "Measures",
+        "total": "Total",
+        "valid": "Valid",
+        "invalid": "Invalid",
+        "heartRate": "Heart rate",
+        "meanHeartRate": "Mean",
+        "lowestHeartRate": "Minimum",
+        "highestHeartRate": "Maximum",
+        "startDate": "Start",
+        "endDate": "End "
+    }
+}

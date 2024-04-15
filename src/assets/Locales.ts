@@ -1,5 +1,5 @@
-import en from './locales/en.json';
-import fr from './locales/fr.json';
+import en from '../../public/locales/en.json';
+import fr from '../../public/locales/fr.json';
 
 type LocaleType = typeof en & {
     language: string;

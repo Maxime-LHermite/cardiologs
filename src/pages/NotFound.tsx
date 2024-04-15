@@ -1,5 +1,5 @@
 import React from 'react';
-import { useStyles } from '../hooks/useTheme';
+import { useStyles } from '../hooks/useStyles';
 import { css } from '@emotion/css';
 
 /**

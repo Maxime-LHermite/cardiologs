@@ -1,0 +1,19 @@
+{
+    "language": "Français",
+    "title": "Cardiologs",
+    "ecgUpload": {
+        "send": "Envoyer"
+    },
+    "analysis": {
+        "measures": "Mesures",
+        "total": "Total",
+        "valid": "Valides",
+        "invalid": "Invalides",
+        "heartRate": "Fréquence cardiaque",
+        "meanHeartRate": "moyenne",
+        "lowestHeartRate": "minimale",
+        "highestHeartRate": "maximale",
+        "startDate": "Début",
+        "endDate": "Fin"
+    }
+}

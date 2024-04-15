@@ -44,7 +44,7 @@
 
         // JS
         "allowJs": false,
-        "checkJs": true,
+        "checkJs": false,
 
         // Interop
         "allowSyntheticDefaultImports": true,
@@ -56,7 +56,8 @@
         "jsx": "react-jsx",
         "lib": ["ESNext", "DOM"],
         "target": "ESNext",
-        "useDefineForClassFields": true
+        "useDefineForClassFields": true,
+        "outDir": "build/"
     },
-    "include": ["vite.config.ts", "src"]
+    "include": ["src"]
 }
